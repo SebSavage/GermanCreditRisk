@@ -1,2 +1,2 @@
 # GermanCreditRisk
-Using a modified version of the German Credit Data, which contains information on 1000 customers, described by 20 decision attributes and a class attribute. Each instance is classified as ‘Good credit risk’ or ‘Bad credit risk’ (encoded as Class labels ‘1’ and ‘2’ respectively).
+The German Credit Data contains information on 1000 customers with 20 different decision attributes that are either classified as “good or “bad” credit risk. The objective of this analysis is to obtain a model that may be used to predict from the 20 different decision attributes whether a new customer is at risk of defaulting a borrowed loan (they are at bad credit risk). 
